@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+.streamlit/secrets.toml
+
+models/KNN_hog.joblib
+models/KNN_pixel.joblib
